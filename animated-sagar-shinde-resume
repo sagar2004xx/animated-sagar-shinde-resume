@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sagar Rajendra Shinde Resume</title>
+  <style>
+    /* Animated Gradient Background */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fbc2eb, #a1c4fd);
+      background-size: 400% 400%;
+      animation: gradientBG 15s ease infinite;
+      color: #333;
+      padding: 20px;
+    }
+
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .resume-container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.9);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h1, h2 {
+      color: #444;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="resume-container">
+    <h1>Sagar Rajendra Shinde</h1>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sagar-shinde2004/">https://www.linkedin.com/in/sagar-shinde2004/</a></p>
+    <p><strong>Email:</strong> sagar4096s@gmail.com | <strong>Phone:</strong> 8788684692</p>
+    <p><strong>Location:</strong> Ahmednagar, Maharashtra, India | <strong>DOB:</strong> 01/10/2004</p>
+
+    <h2>Profile</h2>
+    <p>I am pursuing a Bachelor's degree in Computer Science from Savitribai Phule Pune University (SPPU). I am actively seeking opportunities to further develop my skills, contribute to innovative projects, and grow both personally and professionally. I am excited about bringing my passion and dedication to a forward-thinking organization.</p>
+
+    <h2>Experience</h2>
+    <p><strong>Developer Trainee | AceNurture - Full-time</strong><br>
+    January 2025 - Present (2 months) | Pune, Maharashtra, India - On-site</p>
+    <ul>
+      <li>Learning and Training: Undergoing technical training and understanding software development processes.</li>
+      <li>Coding and Development: Writing, testing, and debugging code under the supervision of senior developers.</li>
+      <li>Software Testing: Assisting in unit testing, integration testing, and identifying bugs in applications.</li>
+      <li>Documentation: Writing and maintaining technical documentation.</li>
+      <li>Collaboration: Working with senior developers and other team members to complete projects.</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+      <li>Front End Development by Simplilearn | Certificate Code: 7079350</li>
+      <li>Introduction to Deep Learning by Infosys | Springboard</li>
+      <li>AWS-DGL-SS-Getting Started with Amazon OpenSearch Service by Infosys | Springboard</li>
+    </ul>
+
+    <h2>Education</h2>
+    <ul>
+      <li>B.Sc. (Computer Science) | G H Raisoni College of Arts, Commerce, and Science | June 2022 - Present</li>
+      <li>HSC (67.68%) | Trimurti Junior College | June 2021 - March 2022</li>
+      <li>SSC (76.60%) | New English School | June 2019 - March 2020</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+      <li>Amazon Shopping App Clone (May 2024 - Present)</li>
+      <li>Agriculture App (June 2023)</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Programming Languages: C, Java, C++, Python</li>
+      <li>Technical Proficiencies: Frontend and backend development</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English</li>
+      <li>Hindi</li>
+      <li>Marathi</li>
+    </ul>
+
+    <h2>Interests</h2>
+    <ul>
+      <li>Reading</li>
+      <li>Playing Kabaddi</li>
+      <li>Trekking</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <p>Email: sagar4096s@gmail.com<br>Phone: 8788684692</p>
+  </div>
+</body>
+</html>
+
